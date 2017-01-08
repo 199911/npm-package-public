@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-public",
+  "version": "1.0.0",
+  "description": "Try to host public npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/199911/npm-package-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/199911/npm-package-public/issues"
+  },
+  "homepage": "https://github.com/199911/npm-package-public#readme"
+}
